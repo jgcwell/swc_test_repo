@@ -1,6 +1,4 @@
-i'm in learned!
-<<<<<<< HEAD
+i'm in learned, apparently
 now it's merged!
-=======
 i'm changing it in exercise branch!changed again!
->>>>>>> exercise
+and again!
